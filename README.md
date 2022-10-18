@@ -1,1 +1,3 @@
-# organization-chart-widget-fig
+# Organization Chart Widget for Figma/FigJam
+
+## WIP
